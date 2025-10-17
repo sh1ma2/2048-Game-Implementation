@@ -14,7 +14,7 @@ Step 1: Clone or Download the Repository
 
 If you have Git:
 
-git clone https://github.com/your-username/2048-tkinter.git
+git clone https://github.com/sh1ma2/2048-Game-Implementation.git
 cd 2048-tkinter
 
 
